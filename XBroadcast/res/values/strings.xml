@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">XBroadcast</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="battery_changer">电量</string>
     <string name="action_settings">Settings</string>
 
 </resources>
